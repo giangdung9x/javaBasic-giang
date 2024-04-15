@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4379d2fa-734b-4dbb-a103-243410781b13" name="Changes" comment="">
+    <list default="true" id="4379d2fa-734b-4dbb-a103-243410781b13" name="Changes" comment="sdet pro - done lab_02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaBasic-giang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic-giang.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SdetPro/LAB_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SdetPro/LAB_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Topic_04_Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Topic_04_Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SdetPro/LAB_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SdetPro/LAB_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +77,25 @@
       <option name="presentableId" value="Default" />
       <updated>1713152296633</updated>
       <workItem from="1713152297695" duration="340000" />
-      <workItem from="1713152676728" duration="623000" />
+      <workItem from="1713152676728" duration="1160000" />
     </task>
+    <task id="LOCAL-00001" summary="sdet pro - done lab_02">
+      <option name="closed" value="true" />
+      <created>1713153365222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713153365222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="sdet pro - done lab_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdet pro - done lab_02" />
   </component>
 </project>
